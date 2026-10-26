@@ -82,5 +82,5 @@ Tasks and projects are organized by day in separate folders, such as `Day-1/`, `
 
 I successfully completed the **Data Analyst Internship at Elevate Labs**, gaining hands-on experience in data cleaning, SQL analysis, Python, and Power BI.
 
-![Elevate Labs Data Analyst Internship Completion Certificate](assets/elevate-labs-internship-certificate.png)
+📜 **[View My Elevate Labs Internship Completion Certificate (PDF)](assets/Elevate_Labs_Internship.pdf)**
 
